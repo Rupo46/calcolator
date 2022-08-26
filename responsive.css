@@ -1,0 +1,11 @@
+@media only screen and (min-width:200px) {
+    .box {
+        margin-left: 86px;
+    }
+}
+
+@media only screen and (min-width:1359px) {
+    .box {
+        margin-left: 26px;
+    }
+}
